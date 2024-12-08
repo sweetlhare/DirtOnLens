@@ -52,6 +52,18 @@ python image_sorter.py
 
 ## Обработка данных
 
+[Previous content up to ## Обработка данных remains the same]
+
+## Данные
+
+### Внешние датасеты
+Для обучения и тестирования моделей использовались следующие открытые датасеты:
+
+1. [Rain Drop Detect](https://universe.roboflow.com/detect-rain-drop/rain-drop-detect)
+2. [Camera Lens Raindrops](https://universe.roboflow.com/idot-v4fzf/detecting-rain-drops-on-camera-lens)
+3. [Smear Detection](https://universe.roboflow.com/insulator-defect-detection-cyjg2/smear-detection)
+4. [Rain Drop Basic](https://universe.roboflow.com/detect-rain-drop/rain-drop)
+
 ### Генерация синтетических данных
 - Реализован синтез капель для аугментации данных
 - Генерация вариаций с различными параметрами:
